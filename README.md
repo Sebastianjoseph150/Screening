@@ -1,7 +1,10 @@
 # screenig
 
-A new Flutter project.
+A flutter appllication that is using Bloc state mangment wich having 2 screen 1 slash screen and home screen.
 
+ Developer : Sebastian Joeph
+            ph:8157966506
+  
 ## Getting Started
 
 This project is a starting point for a Flutter application.
